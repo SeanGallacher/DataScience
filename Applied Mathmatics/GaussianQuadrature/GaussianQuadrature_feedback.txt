@@ -1,0 +1,67 @@
+01/24/22 20:02
+
+Problem 1 (5 points):
+ValueError: Incorrect polytype
+
+Problem 2 (10 points):
+GaussianQuadrature.points_weights() failed to get the correct weights for n=5 using the legendre polynomials
+	Correct response: [0.237 0.237 0.479 0.479 0.569]
+	Student response: [0.129 0.237 0.416 0.584 0.634]
+ValueError: Incorrect polytype
+
+Problem 3 (5 points):
+GaussianQuadrature.basic() failed for f(x) = x^2 with 20 points using the legendre polynomials
+	Correct response: 0.6666666666666666
+	Student response: 0.8042400559550184
+ValueError: Incorrect polytype
+
+Problem 4 (5 points):
+GaussianQuadrature.integrate() failed for f(x) = x^2 on the interval [1,4] with 30 points using the legendre polynomials
+	Correct response: 21
+	Student response: 18.305952662918855
+ValueError: Incorrect polytype
+
+Problem 5 (10 points):
+The scipy error should be at the bottom, make sure you are doing plt.semilogy() (only log scale on the y-axis), the legendre error should be lower than chebyshev, and include a title and axis labels
+Score += 4
+
+Problem 6 (10 points):
+ValueError: Incorrect polytype
+
+Code Quality (5 points):
+Include comments! (not just old print statements)
+Score += 0
+
+Total score: 4/50 = 8.0%
+
+-------------------------------------------------------------------------------
+
+01/27/22 09:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

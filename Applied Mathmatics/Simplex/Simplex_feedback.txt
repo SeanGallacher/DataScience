@@ -1,0 +1,21 @@
+02/28/22 20:31
+
+simplex.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/03/22 09:25
+
+Problems 1-5 (35 points):
+AttributeError: 'SimplexSolver' object has no attribute 'D'
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+

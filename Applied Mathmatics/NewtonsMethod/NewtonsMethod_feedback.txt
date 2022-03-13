@@ -1,0 +1,102 @@
+01/27/22 19:14
+
+ModuleNotFoundError while loading 'newtons_method.py': No module named 'jax'
+
+-------------------------------------------------------------------------------
+
+01/27/22 19:33
+
+ModuleNotFoundError while loading 'newtons_method.py': No module named 'jax'
+
+-------------------------------------------------------------------------------
+
+01/28/22 08:39
+
+ModuleNotFoundError while loading 'newtons_method.py': jax requires jaxlib to be installed. See https://github.com/google/jax#installation for installation instructions.
+
+-------------------------------------------------------------------------------
+
+01/28/22 08:43
+
+ModuleNotFoundError while loading 'newtons_method.py': No module named 'jaxlib'
+
+-------------------------------------------------------------------------------
+
+01/28/22 14:25
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+prob2(30, 20, 2000, 8000) failed
+	Correct response: 0.03877843223027752
+	Student response: (0.03877843202966972, True, 4)
+prob2(35, 15, 2500, 7500) failed
+	Correct response: 0.009938822516920501
+	Student response: (0.009938822262366037, True, 5)
+Score += 0
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+NameError: name 'df' is not defined
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+It looks like both of your graphs are rotated 90 degrees
+Score += 6
+
+Code Quality (5 points):
+Didn't see any comments
+Score += 4
+
+Total score: 35/50 = 70.0%
+
+
+Comments:
+	Looking good man!
+
+-------------------------------------------------------------------------------
+
+02/04/22 14:47
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------------------------------
+

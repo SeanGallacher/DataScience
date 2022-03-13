@@ -1,0 +1,91 @@
+10/28/21 16:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+ValueError: s must be a scalar, or float array-like with the same size as x and y
+
+Problem 3 (10 points):
+ValueError: expected a 2-D array
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+comment your code
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+
+Comments:
+	let me know if you need any help! you've got this
+
+-------------------------------------------------------------------------------
+
+10/30/21 14:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+let me know! if you need help! the switch from circle to ellipse can be tricky
+Score += 0
+
+Problem 5 (5 points):
+ValueError: power_method() failed to return two objects
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+title the ellipse and you're good!
+Score += 4
+
+Total score: 24/50 = 48.0%
+
+-------------------------------------------------------------------------------
+
+11/03/21 19:58
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+get a title on each plot and you're good! looks awesome
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

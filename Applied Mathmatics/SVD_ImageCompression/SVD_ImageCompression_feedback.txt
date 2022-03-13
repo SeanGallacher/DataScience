@@ -1,0 +1,84 @@
+11/11/21 13:09
+
+Problem 1 (10 points):
+For an 5x10 test case of rank 5:
+U incorrect shape
+	Correct response: (5, 5)
+	Student response: (5, 10)
+Incorrect number of nonzero singular values
+	Correct response: 5
+	Student response: 10
+Vh incorrect shape
+	Correct response: (5, 10)
+	Student response: (10, 10)
+For an 10x10 test case of rank 5:
+U incorrect shape
+	Correct response: (10, 5)
+	Student response: (10, 10)
+Incorrect number of nonzero singular values
+	Correct response: 5
+	Student response: 10
+Vh incorrect shape
+	Correct response: (5, 10)
+	Student response: (10, 10)
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 8.128465803946705 (showing ||A - Ahat||_2)
+	Correct response: 7.138064447357947
+	Student response: 4.596976868991047
+lowest_rank_approx() failed with error = 7.76995348811593 (showing ||A - Ahat||_2)
+	Correct response: 7.2814297979852665
+	Student response: 8.30766457194577e-14
+Score += 1
+
+Problem 5 (15 points):
+show original and approx, title the difference in entries
+Score += 3
+
+Code Quality (5 points):
+comment code, title plots
+Score += 1
+
+Total score: 28/50 = 56.0%
+
+-------------------------------------------------------------------------------
+
+11/18/21 13:56
+
+Problem 1 (10 points):
+For an 5x10 test case of rank 5:
+Vh incorrect shape
+	Correct response: (5, 10)
+	Student response: (10, 5)
+ValueError: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+
+Comments:
+	nice
+
+-------------------------------------------------------------------------------
+

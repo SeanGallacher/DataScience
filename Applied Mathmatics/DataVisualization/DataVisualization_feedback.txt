@@ -1,0 +1,61 @@
+12/03/21 12:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+don't forget the minimizer! and if you set within contour shading='auto' the warning will go away
+Score += 7
+
+Problem 6 (10 points):
+don't forget to write insights for what makes each plot meaningful
+Score += 8
+
+Code Quality (5 points):
+missing comments and titles on some plots
+Score += 1
+
+Total score: 41/50 = 82.0%
+
+-------------------------------------------------------------------------------
+
+12/08/21 00:38
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 4
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+
+Comments:
+	problem 2 still makes me crack up. thanks for being a great TA-ee and actually coming to my office hours haha
+
+-------------------------------------------------------------------------------
+

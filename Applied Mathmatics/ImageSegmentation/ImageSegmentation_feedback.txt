@@ -1,0 +1,40 @@
+11/03/21 20:44
+
+image_segmentation.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/06/21 13:14
+
+image_segmentation.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/09/21 16:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+AttributeError: 'ImageSegmenter' object has no attribute 'm'
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+comment your code and remove omented out print statemets (ex - # print(B) )
+Score += 1
+
+Total score: 36/50 = 72.0%
+
+-------------------------------------------------------------------------------
+

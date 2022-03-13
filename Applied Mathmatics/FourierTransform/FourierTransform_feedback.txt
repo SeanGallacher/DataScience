@@ -1,0 +1,184 @@
+12/04/21 08:45
+
+Problem 1 (5 points):
+Make sure to label your plot, the x-axis should be in terms of seconds (it should only go up to two)
+Score += 1
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Use np.allclose to print out 'true' or 'false' whether your function and scipy's return the same value
+Score += 4
+
+Problem 6 (10 points):
+simple_fft is not the same as scipy's fft. Also make sure you time simple_dft()
+Score += 3
+
+Problem 7 (5 points):
+Incomplete
+Score += 0
+
+Problem 8 (5 points):
+Incomplete
+Score += 0
+
+Code Quality (5 points):
+Don't forget comments!
+Score += 0
+
+Total score: 23/50 = 46.0%
+
+-------------------------------------------------------------------------------
+
+12/07/21 20:03
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+This problem is good, but on problem 1, make sure you label your plot!
+Score += 3
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Use np.allclose() to print true or false if simple_dft() and scipy's fft function are equal
+Score += 4
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+simple_fft is not the same as scipy's fft. Also make sure you time simple_dft()
+Score += 3
+
+Problem 7 (5 points):
+Incomplete
+Score += 0
+
+Problem 8 (5 points):
+Incomplete
+Score += 0
+
+Code Quality (5 points):
+Don't forget comments!
+Score += 0
+
+Total score: 25/50 = 50.0%
+
+
+Comments:
+	Yikes I am on one, switch the scores for problems 4 and 5, or just look at the previous feedback, it is the same and correct. Oh and I overlooked the problem of the x-axis on problem 1. Definitely look at the previous feedback.
+
+-------------------------------------------------------------------------------
+
+12/09/21 10:00
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Use np.allclose() to print out true or false if simple_dft() and scipy's fft return the same value
+Score += 4
+
+Problem 6 (10 points):
+also time simple_dft()
+Score += 8
+
+Problem 7 (5 points):
+Score += 5
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+01/10/22 18:23
+
+Problem 1 (5 points):
+Embed your sounds
+Score += 0
+
+Problem 2 (10 points):
+Also time scipy's convolution and embed your sounds
+Score += 2
+
+Problem 3 (5 points):
+Embed your sounds
+Score += 0
+
+Problem 4 (10 points):
+You only embeded one clean, embed the other and the originals. make sure you account for the symmetric nature of the DFT
+Score += 2
+
+Problem 5 (5 points):
+Same problem as four I believe, the audio won't be the best quality but sort of understandable still
+Score += 1
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Make sure you include comments
+Score += 0
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
+01/13/22 09:37
+
+Problem 1 (5 points):
+Also embed after you append
+Score += 4
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Embed noisy2.wav before cleaning as well
+Score += 9
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+To get rid of the warnings, cast to real after taking the ifft. Also, include comments!
+Score += 4
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

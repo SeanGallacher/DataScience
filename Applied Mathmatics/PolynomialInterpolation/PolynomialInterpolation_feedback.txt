@@ -1,0 +1,73 @@
+01/18/22 08:49
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+AttributeError: 'numpy.ndarray' object has no attribute 'append'
+
+Problem 5 (10 points):
+Both of your lines are just at 1, they should change. Make sure you title your plot!
+Score += 1
+
+Problem 6 (5 points):
+chebyshev_coeffs(f, 2) failed for f(x) = 
+	Correct response: [1.5 2.  0.5]
+	Student response: [ 2.356 -2.356 -1.178]
+chebyshev_coeffs(f, 3) failed for f(x) = 
+	Correct response: [ 7.    1.25  2.   -0.25]
+	Student response: [ 2.094 -1.396 -1.396 -0.698]
+chebyshev_coeffs(f, 4) failed for f(x) = 
+	Correct response: [ 4.375 -1.     4.    -1.     0.625]
+	Student response: [ 1.963 -0.982 -0.982 -0.982 -0.491]
+Score += 0
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Make sure you include comments!
+Score += 0
+
+Total score: 26/50 = 52.0%
+
+-------------------------------------------------------------------------------
+
+01/20/22 10:06
+
+SyntaxError while loading 'polynomial_interpolation.py': unexpected EOF while parsing (polynomial_interpolation.py, line 280)
+
+-------------------------------------------------------------------------------
+
+01/20/22 10:40
+
+Problems 1-2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

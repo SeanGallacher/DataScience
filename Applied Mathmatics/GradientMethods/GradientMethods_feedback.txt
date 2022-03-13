@@ -1,0 +1,83 @@
+02/21/22 17:32
+
+Problem 1 (10 points):
+AttributeError: module 'scipy.optimize.optimize' has no attribute 'minimize_scalar'
+
+Problem 2 (10 points):
+conjugate_gradient() failed on a 3x3 system (Qx != b)
+	Correct response: [0.999 0.247 0.739]
+	Student response: [374.468 391.684 330.296]
+conjugate_gradient() failed on a 4x4 system (Qx != b)
+	Correct response: [0.713 0.128 0.995 0.712]
+	Student response: [8.366e+14 5.299e+14 1.284e+15 1.041e+15]
+conjugate_gradient() failed on a 5x5 system (Qx != b)
+	Correct response: [0.195 0.353 0.012 0.888 0.384]
+	Student response: [3.239e+36 3.437e+36 5.052e+36 3.563e+36 4.373e+36]
+Score += 0
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Don't forget comments!
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/24/22 10:43
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5 and 6 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+02/24/22 12:20
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5 and 6 (10 points):
+TypeError: Invalid return type 'NoneType'
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+-------------------------------------------------------------------------------
+

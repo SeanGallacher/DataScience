@@ -1,0 +1,71 @@
+02/18/22 19:16
+
+Problem 1 (5 points):
+Missing plot of f(z)=z and plot of f(z) = sqrt(1 + z^2) isn't quite right, should be a sharper line down the middle 
+Score += 3
+
+Problem 2 (5 points):
+Make sure that you are plotting on [-1,1,1,-1], your magnitude plots are pretty far off, should be mostly yellow with small blue dots, not mostly blue
+Score += 3
+
+Problem 3 (5 points):
+Plot z^-n for n = 1,2,3, not 2,3,4. Also last function is incorrect.
+Score += 2
+
+Problem 4 (10 points):
+Need to adjust the bounds on the second function to be able to see all the poles/zeros
+Score += 6
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Need to plot zoomed in versions of both the plots as well
+Score += 5
+
+Code Quality (5 points):
+Need to add titles on all the plots. Also you need to figure out your bounds on all your plots, all your magnitude plots are off.
+Score += 0
+
+Total score: 29/50 = 58.0%
+
+
+Comments:
+	Almost there man!
+
+-------------------------------------------------------------------------------
+
+02/26/22 16:47
+
+Problem 1 (5 points):
+Second plot looks off, should have two sharp lines in the middle.
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+I only see the sin plot and both plots are the same. Should have two different functions for 4 graphs total - one on the regular domain and one zoomed in to see the zeros.
+Score += 5
+
+Code Quality (5 points):
+Make sure you are adjusting the window appropriately on each of the graphs. Some seemed too far zoomed in. Also the magnitude graphs look weird, they all see too zoomed in.
+Score += 3
+
+Total score: 41/50 = 82.0%
+
+
+Comments:
+	Looking good!
+
+-------------------------------------------------------------------------------
+
